@@ -1,2 +1,2 @@
 # PySudoku
-A Python Sudoku Solver Inspired By norvig.com
+A Python Sudoku Solver Inspired By www.norvig.com
